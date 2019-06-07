@@ -1,3 +1,3 @@
-| CD-R / DVD-R
+| CD-R / DVD-R |
 | (Single Session / Single Track |
 |:---:|
