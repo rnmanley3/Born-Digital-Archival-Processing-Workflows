@@ -1,7 +1,7 @@
 # Born-Digital-Workflows
 * Floppy Disk Workflows
 
-** [Kryoflux](Floppy Disk Workflows/Kryoflux.md)
+** [Kryoflux](Floppy Disk Workflows/Kryoflux)
 
 * Optical Disk Workflows
 
